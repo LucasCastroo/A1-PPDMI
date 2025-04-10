@@ -1,16 +1,32 @@
-# ppdmi_a1
+# 🏍️ Motocycle - Moto Shop
 
-A new Flutter project.
+**Motocycle - Moto Shop** é um aplicativo Flutter desenvolvido como projeto de avaliação para a disciplina de Programação para Dispositivos Móveis.  
+O app simula o sistema de gestão de uma loja de motos, com funcionalidades completas de cadastro, edição, visualização e exclusão de motos.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Listagem de motos com busca por modelo  
+- ✅ Cadastro e edição de motos com:
+  - Modelo, Marca e Ano
+- ✅ Exclusão de motos
+- ✅ Exibição de imagem ou ícone de moto padrão
+- ✅ Layout adaptado com tema escuro, logo personalizada e design responsivo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tecnologias Utilizadas
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [HTTP](https://pub.dev/packages/http)
+- API simulada com [Beeceptor](https://beeceptor.com/)
+
+---
+
+## 🚀 Execução
+
+```bash
+flutter pub get
+flutter run
